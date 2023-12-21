@@ -2,7 +2,7 @@
 #include <QAbstractAnimation>
 #include <QApplication>
 #include <QAbstractGraphicsShapeItem>
-
+#include<EGL/egl.h>
 
 
 int main(int argc, char *argv[])
