@@ -1,6 +1,9 @@
 #include "mainwindow.h"
 #include <QAbstractAnimation>
 #include <QApplication>
+#include <QAbstractGraphicsShapeItem>
+
+
 
 int main(int argc, char *argv[])
 {
